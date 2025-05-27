@@ -1,0 +1,59 @@
+Dashboard Summary:
+Timeframe: January to March 2023
+
+Total Orders: 5,371
+
+Total Amount Spent: $241K
+
+Avg Price per Item: $13
+
+Items Sold: 32 unique items
+
+📈 Key Insights & Findings
+1. Top & Bottom Performing Items
+Highest Spend Item: Korean Beef Bowl – $11K
+
+Most Ordered Item: Hamburger – 622 orders
+
+Lowest Spend Item: Chicken Tacos – $1K
+
+Least Ordered Item: Chicken Tacos – 123 orders
+
+Insight: Chicken Tacos is both the least ordered and lowest in revenue. This item may not justify its place on the menu unless improved or promoted. 
+
+Action: Consider rebranding, promoting, or removing underperforming items like Chicken Tacos.
+
+2. Spending Trends by Category
+The Asian category dominates in total amount spent.
+
+The American category has the lowest spend, despite being associated with popular items like burgers.
+
+Insight: Asian cuisine is driving more revenue, possibly due to higher pricing or more frequent ordering of high-value items. 
+
+Action: Lean into the popularity of Asian offerings. Feature them more in marketing, bundles, or combos.
+
+3. 📊 Monthly Trends in Order Details
+Order volumes appear fairly consistent across Jan, Feb, and Mar.
+
+Categories like American and Asian maintain a steady flow.
+
+Insight: There’s no sharp drop or peak, which shows stability, but also no seasonal push. 
+
+Action: Consider seasonal promotions to create sales peaks (e.g., “Spring Specials” in March).
+
+4. Top Performing Items by Spend & Order Count
+Top 5 Spend/Order Items: Korean Beef Bowl, Cheeseburger, Hamburger, French Fries, Edamame.
+
+These items drive both volume and value.
+
+Insight: These are the menu heroes. 
+
+Action: Promote these items more, build combos around them, or use them as lead magnets in upselling.
+
+5. 📦 Order vs Spend Balance (Bar & Line Chart at Bottom Left)
+Some items like Spaghetti & Meatballs have relatively low order count but high spend, possibly priced higher.
+
+Cheeseburger has a solid balance of both order volume and spend.
+
+Insight: Items with high price but low volume might be niche or premium — monitor customer feedback on them. Action: Evaluate pricing elasticity: could slightly lowering price increase volume?
+
